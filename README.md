@@ -1,7 +1,3 @@
-## Byte-Copy
-It is simply a Windows program that copies <source_file> bytes to a new <destination_file> in both reverse and normal orders.
-My friend told me to code it using the __stdcall calling convention, so I did :3.
-
 ## Usage
 To use the program, open your terminal and simply type:
 <program_file_name> <source_file> <destination_file> <number_flag>
