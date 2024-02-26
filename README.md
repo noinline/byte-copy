@@ -11,7 +11,7 @@ Where:
 - `1` for reversed copy order.
  
 ## Compiling
-To compile byte-copy, you can use the following command with Clang:
+To compile byte-copy, you can use the following command with Clang:    
 clang++.exe .\main.cpp -o your_file_name.exe
 
 Replace `your_file_name.exe` with your desired executable file name.
