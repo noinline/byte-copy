@@ -1,5 +1,5 @@
 ## Usage
-To use the program, open your terminal and simply type:
+To use the program, open your terminal and simply type:  
 <program_file_name> <source_file> <destination_file> <number_flag>
 
 Where:
