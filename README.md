@@ -9,6 +9,12 @@ Where:
 - `<number_flag>` is a copy order parameter:
 - `0` for a normal copy order.
 - `1` for reversed copy order.
+
+## Supported Operating Systems
+
+- [X] - Windows (10 21H22)
+- [ ] - macOS
+- [ ] - Linux
  
 ## Compiling
 To compile byte-copy, you can use the following command with Clang:    
